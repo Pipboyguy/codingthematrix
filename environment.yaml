@@ -8,6 +8,8 @@ dependencies:
   - numexpr
   - scipy
   - pandas
+  - matplotlib
+  - seaborn
   - numpy>=1.20.3
   - numba>=0.54.1
   - python>=3.9
